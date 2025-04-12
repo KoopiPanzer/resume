@@ -19,12 +19,12 @@ export const Experians = () => {
           </ul>
         </div>
 
-        {/* Образование */}
+
         <div className="bg-white mt-12 p-6 rounded-3xl w-1/2 shadow-md">
           <h1 className="text-4xl font-bold text-blue-600 mb-4">Образование</h1>
           <ul className="text-lg text-gray-700 space-y-4">
             <li className="font-semibold">01.03.2014 - 25.05.2024: УВК ШГ №38</li>
-            <li>2024.01.09: Поступление в ПЛИТ №99</li>
+            <li className="text-1xl font-semibold">2024.01.09: Поступление в ПЛИТ №99</li>
           </ul>
         </div>
       </div>
